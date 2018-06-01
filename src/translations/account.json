@@ -1,0 +1,17 @@
+{
+  "Authentication": [
+    "Authentication",
+    "Аутентификация",
+    null
+  ],
+  "Login": [
+    "Login",
+    "Вход",
+    null
+  ],
+  "Registration": [
+    "Registration",
+    "Регистрация",
+    null
+  ]
+}

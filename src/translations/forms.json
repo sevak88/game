@@ -1,0 +1,67 @@
+{
+  "Confirm Password": [
+    "Confirm Password",
+    "Подтвердите Пароль",
+    null
+  ],
+  "Password": [
+    "Password",
+    "Пароль",
+    null
+  ],
+  "name": [
+    "Username",
+    "Имя Пользователя",
+    null
+  ],
+  "Please input your email!": [
+    "Please input your email!",
+    "Пожалуйста введите email!",
+    null
+  ],
+  "Please input your Password!": [
+    "Please input your Password!",
+    "Пожалуйста введите пароль!",
+    null
+  ],
+  "Please input your username!": [
+    "Please input your username!",
+    "Пожалуйста введите имя пользователя!",
+    null
+  ],
+  "Please confirm your Password!": [
+    "Please confirm your Password!",
+    "Пожалуйста подтвердите пароль",
+    null
+  ],
+  "Remember me": [
+    "Remember me",
+    "Запомнить меня",
+    null
+  ],
+  "Reset password": [
+    "Reset password",
+    "Восстановить пароль",
+    null
+  ],
+  "Log in": [
+    "Log in",
+    "Войти",
+    null
+  ],
+  "Register": [
+    "Register",
+    "Зарегистрироваться",
+    null
+  ],
+  "Reset": [
+    "Reset",
+    "Восстановить",
+    null
+  ],
+  "Send": [
+    "Send",
+    "Отправить",
+    null
+  ]
+}

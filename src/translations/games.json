@@ -1,0 +1,27 @@
+{
+  "Demo Game": [
+    "Demo Game",
+    "Демо Игра",
+    null
+  ],
+  "Easy": [
+    "Easy",
+    "Легкий",
+    null
+  ],
+  "Medium": [
+    "Medium",
+    "Средний",
+    null
+  ],
+  "Hard": [
+    "Hard",
+    "Тяжелый",
+    null
+  ],
+  "Check Ticket": [
+    "Check Ticket",
+    "Проверить билет",
+    null
+  ]
+}

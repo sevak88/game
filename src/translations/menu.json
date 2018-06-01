@@ -1,0 +1,22 @@
+{
+  "CashOut": [
+    "CashOut",
+    "Вывести",
+    null
+  ],
+  "Deposit": [
+    "Deposit",
+    "Депозит",
+    null
+  ],
+  "Faucet": [
+    "Faucet",
+    "Кран",
+    null
+  ],
+  "Sign In": [
+    "Sign In",
+    "Аккаунт",
+    null
+  ]
+}
